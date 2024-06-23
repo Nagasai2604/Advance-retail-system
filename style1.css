@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg{
+    background-image:url("https://img.freepik.com/premium-photo/canned-tomatoes-cucumbers-jars-fresh-vegetables-spices-preservation-light-wooden-background_236765-1219.jpg?w=740");
+    height: 100vh;
+    width: 100vw;
+}
+.mainheadbg{
+        background-image:url("https://img.freepik.com/free-photo/top-view-paper-fish-with-copy-space_23-2148485617.jpg?t=st=1712813998~exp=1712817598~hmac=621447206c662091035c6eb277bdcff825a20f2f6faa4ca9ab716b5d1e7f0d91&w=1380");
+        background-size:cover;
+        border-width:30px;
+        margin: 8px;
+        text-align: center;
+        color:black;
+        font-size: 30px;
+    
+}
+.mainhead{
+    font-family:Arial;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+.para1{
+    color: white;
+    font-size:20px ;
+}
+.para2{
+    color:black;
+}
+.card1{
+    background-color: lightseagreen;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+    
+}
+.card1img{
+    width: 80px;
+    height: 100px;
+    border-radius: 8px;
+}
+.head2{
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+.whitebg{
+    background-color: white;
+}
+.dhead{
+    font-size: 21px;
+    font-family: Arial;
+    font-weight: bold;
+    font-decoration:underline;
+}
+.endcardbg{
+    background-color:Grey;
+}
+.dpara{
+    font-size: 15px;
+}
+.bhead{
+    font-size: 20px;
+    font-weight:bold;
+}
+.unorderedlist1{
+    list-style-type: none;
+    font-size: 15px;
+}
+.pdbg{
+    background-image: url("https://img.freepik.com/premium-photo/blurred-fresh-herbs-counter-market-with-empty-rustic-wooden-planks-foreground-can-be-used-advertise-products-mockup-image_136401-3461.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.pdheading{
+    text-align: center;
+    font-family: fantasy;
+    padding: 30px;
+}
+.pdcard1{
+    padding:50px;
+    background-color: white;
+    background-size: cover;
+    margin:40px;
+}
+.pdpara{
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: bold;
+}
+.pdunorderedlist1{
+    list-style-type: none;
+    font-size: 15px;
+}
+.pdendcardbg{
+    background-color:Grey;
+    margin:15px;
+}
+.pdbhead{
+    font-size: 20px;
+    font-weight:bold;
+}
+.fbbg{
+    background-image: url("https://img.freepik.com/free-photo/covid-concept-with-cubes-view_23-2148911544.jpg?t=st=1712843227~exp=1712846827~hmac=2ed284c24add7377fb953ef20391b04f37059ada36a9d1d365e99b2d0f31a1bf&w=996");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+
+
+.fbmainhead{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: lightblue;
+    margin:40px;
+    text-align: center;
+    font-family: garamond;
+    font-weight: bold;
+    
+}
+.fbcard1{
+    margin-left: 600px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 40px;
+    background-color: white;
+}
+.fbbutton{
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+    margin-left:600px;
+}
+.backfbbutton{
+    margin-left:10px;
+    font-weight: bold;
+    background-color: lightblue;
+    color: black;
+}
+.fbsbutton{
+    color: black;
+    font-weight:bold;
+    margin-left:350px;
+    font-size: 19px;
+}
+.dohead{
+    font-weight: bold;
+}
